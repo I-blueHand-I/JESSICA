@@ -38,10 +38,15 @@ You will have to download those libaries to program jessica :
 Polymorphic Button is very usefull to program different time pressure for the button. 
 You will find in repository a code with a PMbutton example. 
 
+## Sound 
+
+To make Jessica's voice, you can use this website which translates a text to the voice of your choice. You'll find all languages. 
+https://soundoftext.com. When you have all the sequence of voices that you want, you can go to audacity to build the whole sequence. 
+
 ## 3D model
 
-Install Blender : https://www.blender.org/download/
-Install Cura : https://ultimaker.com/fr/software/ultimaker-cura
+- Install Blender : https://www.blender.org/download/
+- Install Cura : https://ultimaker.com/fr/software/ultimaker-cura
 
 Now that the hardware and software are done, Jessica needs a body. 
 You will find blender 3D model and a .stl file. 
