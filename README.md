@@ -56,7 +56,7 @@ You can print the .stl file with a 3D print using Cura for slicer for example.
 
 ## VIDEOS OF JESSICA WORKING
 
-JESSICA used to work during one day but after JESSICA died. THe problem was link to DF mini-Player and SD card. From today the problem has been solved.
+This are the last video of JESSICA working. JESSICA used to work during one day but after JESSICA died. THe problem was link to DF mini-Player and SD card. From today the problem has been solved.
 We hope that JESSICA will work again soon.
 
 https://user-images.githubusercontent.com/91726252/150986402-d56254a7-a08e-44e3-bdd8-7331a0f1ebb5.mov
