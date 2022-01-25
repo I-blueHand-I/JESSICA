@@ -54,4 +54,7 @@ You can print the .stl file with a 3D print using Cura for slicer for example.
 
 <img width="1243" alt="3D_blender" src="https://user-images.githubusercontent.com/91726252/143847567-2662e4da-88e4-4f94-b16b-3bf818835802.png">
 
+https://user-images.githubusercontent.com/91726252/150986402-d56254a7-a08e-44e3-bdd8-7331a0f1ebb5.mov
+https://user-images.githubusercontent.com/91726252/150986349-a756b11f-6d9c-4e46-8903-c2812c8a12a2.mov
+
 
